@@ -74,6 +74,18 @@ This project demonstrates hands-on networking experience using Cisco Packet Trac
 
 ![PS07 Router-on-a-Stick](Stick.png)
 
+### DHCP Server Configuration – IPv4 Addressing
+
+- Configured and activated an IPv4 DHCP scope on a simulated Windows DHCP server.
+- Created an IP address pool ranging from `192.168.0.20` to `192.168.0.200`.
+- Configured DHCP scope options for the default gateway, DNS servers, and DNS domain.
+- Configured a client laptop to obtain IP and DNS settings automatically.
+- Verified client network configuration using `ipconfig /all`.
+- Successfully completed the DHCP configuration lab with a score of **100%**.
+
+**Tools & Technologies:** Windows DHCP Server, IPv4, DHCP, DNS, PowerShell.
+
+
 ---
 
 
