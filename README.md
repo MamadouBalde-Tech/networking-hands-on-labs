@@ -121,17 +121,26 @@ This project demonstrates hands-on networking experience using Cisco Packet Trac
 ---
 
 ## Tools & Technologies
-- Cisco Packet Tracer  
-- Cisco IOS (CLI)  
-- Routing & Switching  
-- VLANs & Trunking  
-- SSH Configuration  
+
+- Cisco Packet Tracer
+- Cisco IOS (CLI)
+- Windows DHCP Server
+- PowerShell
+- Routing & Switching
+- VLANs & Trunking
+- SSH Configuration
+- DHCP & IPv4 Addressing
+- DNS & Network Configuration
 
 ---
 
 ## Key Skills Gained
-- Network configuration and troubleshooting  
-- Router and switch management  
-- VLAN segmentation and inter-VLAN routing  
-- Secure remote access (SSH)  
-- Network topology design  
+
+- Network configuration and troubleshooting
+- Router and switch management
+- VLAN segmentation and inter-VLAN routing
+- Secure remote access (SSH)
+- Network topology design
+- DHCP scope configuration and activation
+- Automatic IPv4 address assignment
+- DHCP client configuration and verification
