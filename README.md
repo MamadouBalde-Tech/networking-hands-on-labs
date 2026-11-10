@@ -85,28 +85,32 @@ This project demonstrates hands-on networking experience using Cisco Packet Trac
 
 **Tools & Technologies:** Windows DHCP Server, IPv4, DHCP, DNS, PowerShell.
 
-
 #### Lab Screenshots
 
 **DHCP Scope**
 
-![DHCP Scope](DHCP-Server-Configuration/screenshots/01-dhcp-scope.png)
+![DHCP Scope](DHCP-Server-Configuration/screenshots/01-active-dhcp-scope.png)
 
 **DHCP Address Pool**
 
-![DHCP Address Pool](DHCP-Server-Configuration/screenshots/02-dhcp-address-pool.png)
+![DHCP Address Pool](DHCP-Server-Configuration/screenshots/02-address-pool.png)
 
 **DHCP Scope Options**
 
-![DHCP Scope Options](DHCP-Server-Configuration/screenshots/03-dhcp-scope-options.png)
+![DHCP Scope Options](DHCP-Server-Configuration/screenshots/03-scope-options.png)
 
 **Client IP Configuration**
 
-![Client IP Configuration](DHCP-Server-Configuration/screenshots/04-client-ip-configuration.png)
+![Client IP Configuration](DHCP-Server-Configuration/screenshots/04-client-ipconfig.png)
 
 **Lab Completion**
 
 ![Lab Completion](DHCP-Server-Configuration/screenshots/05-lab-completion.png)
+  
+
+
+
+
 
 
 
